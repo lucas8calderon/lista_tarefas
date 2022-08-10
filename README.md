@@ -1,4 +1,4 @@
-# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Combustível
+# <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Lista de Tarefas
 
 
 
@@ -17,32 +17,25 @@
 ## 🖥 Preview
 
 <div align="center">
-
- <img src="https://user-images.githubusercontent.com/87238842/182443779-4e5a32d7-0acf-4ca8-9f83-07a5bf5fe154.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443784-26c002f9-d8db-4883-81f0-388c01d4a592.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443788-da8b56ca-ed67-4c62-8bcb-a3618cb55e74.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443789-d8422e88-769a-4e7e-a680-721ca0726687.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443790-4c943e25-e27b-40d6-8ad5-800f04cbd90b.png" width="150">
-
- <img src="https://user-images.githubusercontent.com/87238842/182443797-c9656c2f-c871-4cfd-ac1d-3be979a082ff.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443800-67ea6f06-6058-46f7-8bec-8aab632fe78c.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443801-802bc1b0-4aa9-48cd-a25c-ebc798ffc522.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443802-f2f1b110-0a69-4ff3-a133-2a89ef08dd45.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443806-74930bdb-6385-45fe-a8cb-bc6a957172d3.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443808-41c42b27-03bb-45dc-a0f0-892daba8375d.png" width="150">
- <img src="https://user-images.githubusercontent.com/87238842/182443812-ab9d2add-de35-42d9-abef-105af8295df5.png" width="150">
-  <img src="(https://user-images.githubusercontent.com/87238842/182443791-b660906c-6b09-4e29-95f3-33ad00bc2e4f.png" width="150">
-
-
-
+ <img src="https://user-images.githubusercontent.com/87238842/184022788-b4f46431-d81a-48b0-b2d6-a39a29802045.gif" width="140">
+ <img src="https://user-images.githubusercontent.com/87238842/184021498-a5c1c327-ca17-4948-b897-774ad73a75c3.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184021481-dfe79616-9f87-4a01-ae5f-3e4cbabc8ef5.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184021488-85d1f2c4-16bc-4c4f-8824-6551e0d6c1d6.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184021489-a76bd946-5b12-45e4-a0f8-4e0707b77d1f.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184021492-28df57bf-9ee1-421c-b765-44b1638c4171.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184022190-4dcb6a6d-b715-4083-a91f-add6d2ced997.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184022191-1bd2a801-2bc8-4305-bd19-df3244828e94.png" width="150">
+ <img src="https://user-images.githubusercontent.com/87238842/184022193-087bd44e-86be-4081-9da9-810498925d7d.png" width="150">
  
-</div>
+ 
+
 
 ---
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um app de calculos de consumo e aproveitamento de combustivel.
+A proposta do projeto é a criação de um aplicativo organizador de tarefas, onde é cadastrado, armazenado e atualizar novas tarefas no banco de dados do usuário.
+ 
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
 ---
@@ -53,22 +46,18 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 
 - Android Studio
 - Java
-- Onboarding
+- Splash Activity
 - XML
-- Intents
-- Bundle
-- Splash Activity Animada
+- Activities
 - Navegação entre Activities
-- ViewPager
 - Lógica de Programação
 - POO
+- Floaring Bottom
 - Dialog
 - RecyclerView
 - Banco de Dados (Armazenamento interno com sqlite)
-- Floating Bottom
-- Bottom Navigation
 - Webview (Acessando o google maps)
-- Layouts
+ - Layouts
 
 ---
 
