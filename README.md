@@ -52,12 +52,11 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - Navegação entre Activities
 - Lógica de Programação
 - POO
-- Floaring Bottom
+- Floating Bottom
 - Dialog
 - RecyclerView
 - Banco de Dados (Armazenamento interno com sqlite)
-- Webview (Acessando o google maps)
- - Layouts
+- Layouts
 
 ---
 
