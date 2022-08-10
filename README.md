@@ -34,7 +34,7 @@
 
 ## 📖 Sobre
 
-A proposta do projeto é a criação de um aplicativo organizador de tarefas, onde é cadastrado, armazenado e atualizar novas tarefas no banco de dados do usuário.
+A proposta do projeto é a criação de um aplicativo organizador de tarefas, onde é cadastrado, armazenado e atualiza tarefas no banco de dados do usuário.
  
 Este projeto foi desenvolvido durante minha jornada de estudos, com intuito de aprimorar os conhecimentos em desenvolvimento de android nativo.
 
